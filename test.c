@@ -3,4 +3,5 @@
 void main(void)
 {
 	print("リポジトリにファイルを追加のテスト");	
+	print("別のPCから");	
 }
